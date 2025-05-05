@@ -21,4 +21,3 @@ Para correr el programa que se llama app.py ejecuta `python app.py`o `python3 ap
 ![Imagen de WhatsApp 2025-05-04 a las 20 57 38_61834868](https://github.com/user-attachments/assets/67e38d53-3e0d-4d53-8507-7ae8714f7ff0)
 ![Imagen de WhatsApp 2025-05-04 a las 21 02 56_12d6c0fd](https://github.com/user-attachments/assets/48849570-2b73-459a-b1b7-f5a217a663c2)
 ![Imagen de WhatsApp 2025-05-04 a las 21 06 21_c19a22c7](https://github.com/user-attachments/assets/73ca3bb9-a68e-4350-94c9-9591a494cef8)
-
