@@ -1,1 +1,14 @@
-# Taller02TS
+# Taller02 - Tópicos de Ingeniería de Software
+
+## Integrantes:
+- Manuela Caro
+- Katherin Allin
+
+### Reglas para correr la aplicación:
+`http://localhost:5000/pokenea/json` → para el JSON.
+`http://localhost:5000/pokenea/frase` → para la imagen y la frase.
+
+### Te presentamos a nuestros Pokeneas
+![ChatGPT Image 4 may 2025, 19_33_16](https://github.com/user-attachments/assets/d6b7ba8d-5234-4188-9d7e-a8c586fa3e61)
+![ChatGPT Image 4 may 2025, 19_36_49](https://github.com/user-attachments/assets/d3d13cf8-ce3f-4823-a176-c6ef5f5680b9)
+![ChatGPT Image 4 may 2025, 19_40_30](https://github.com/user-attachments/assets/a8ab3cd8-2c7c-4628-8b9a-b60ec0d7e7a3)
