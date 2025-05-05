@@ -50,7 +50,7 @@ pokeneas = [
         "nombre": "Reggaetompoleon",
         "altura": "1.9m",
         "habilidad": "Flow explosivo",
-        "imagen": "https://example.com/reggaetompoleon.png",
+        "imagen": "https://private-user-images.githubusercontent.com/68928423/440234470-ba0b579f-d725-4e61-9439-ebd9810ff7dd.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY0MTA1OTEsIm5iZiI6MTc0NjQxMDI5MSwicGF0aCI6Ii82ODkyODQyMy80NDAyMzQ0NzAtYmEwYjU3OWYtZDcyNS00ZTYxLTk0MzktZWJkOTgxMGZmN2RkLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTA1VDAxNTgxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBhMmY1ZTc5NzUyYmY5Y2FlZjFhYWNkODMzZDk0OGY5ZjM1YWNlMTQ5ZjNmZjlmYzYxM2RjMjRkMjA2N2I5YzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-UILX3xFAkMqLMzH_SqI_1xNqHx-xR7glNiS8NU9OKo",
         "frase": "El ritmo mueve montañas, parcero."
     },
      {
