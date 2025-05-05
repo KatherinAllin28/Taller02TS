@@ -74,7 +74,7 @@ pokeneas = [
         "nombre": "Jiggleneaza",
         "altura": "0.9m",
         "habilidad": "Canto vallenato paisa",
-        "imagen": "https://example.com/jiggleneaza.png",
+        "imagen": "https://private-user-images.githubusercontent.com/68928423/440234010-4ec3f656-bfd6-4c82-a5ea-6c4d7f3d49f7.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY0MTAyOTgsIm5iZiI6MTc0NjQwOTk5OCwicGF0aCI6Ii82ODkyODQyMy80NDAyMzQwMTAtNGVjM2Y2NTYtYmZkNi00YzgyLWE1ZWEtNmM0ZDdmM2Q0OWY3LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTA1VDAxNTMxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAzYzNjNjc4NTQzYTY4NWI4NTgwNDBiNTRlZDdkOGZmZGNmMjIxMWJkYTc3OTdmNDFhNmMyMmI3MGE0YmViOWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fJLO25wWMj_NSxx7nIkJGFuQ3J-MyKoMaQs5zGZ28yQ",
         "frase": "Con una canción se enamora hasta el más serio."
     }
 ]
