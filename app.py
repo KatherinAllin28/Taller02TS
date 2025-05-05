@@ -10,7 +10,7 @@ pokeneas = [
         "nombre": "Arepachu",
         "altura": "0.8m",
         "habilidad": "Electroarepa",
-        "imagen": "c:\Users\knath\Downloads\ChatGPT Image 4 may 2025, 19_33_16.png",
+        "imagen": "https://private-user-images.githubusercontent.com/68928423/440229163-d6b7ba8d-5234-4188-9d7e-a8c586fa3e61.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY0MDY5OTksIm5iZiI6MTc0NjQwNjY5OSwicGF0aCI6Ii82ODkyODQyMy80NDAyMjkxNjMtZDZiN2JhOGQtNTIzNC00MTg4LTlkN2UtYThjNTg2ZmEzZTYxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTA1VDAwNTgxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU4NTliYjk1NmZmZDJmOGQ3YzlmOWQzNzQ2Nzk3ZGE3ZDYzN2Q5NGE5NjBiMGM0M2RjYTczZTVkNmY3MDk1YjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.nAJP51FWuKrxRis8nQS-k82nZh2RsldMBKXeyHj-uDs",
         "frase": "Parce, la vida es como una arepa, depende de con qué la rellenes."
     },
     {
@@ -18,7 +18,7 @@ pokeneas = [
         "nombre": "Juancharizard",
         "altura": "1.7m",
         "habilidad": "Fuego paisa",
-        "imagen": "c:\Users\knath\Downloads\ChatGPT Image 4 may 2025, 19_36_49.png",
+        "imagen": "https://private-user-images.githubusercontent.com/68928423/440229158-d3d13cf8-ce3f-4823-a176-c6ef5f5680b9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY0MDcwODcsIm5iZiI6MTc0NjQwNjc4NywicGF0aCI6Ii82ODkyODQyMy80NDAyMjkxNTgtZDNkMTNjZjgtY2UzZi00ODIzLWExNzYtYzZlZjVmNTY4MGI5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTA1VDAwNTk0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFlMWVhY2IwNGUxZThlZThmZDEwYjZmMWZjYzk4MDgzMjlmY2QyZTdmOWY3MzkwMDc1YjE4MzA1MDdiMWFkNmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pEthgvxnqw4HeuWu_Q-N5jRf_62wprXc4BnzRLpveAo",
         "frase": "El que madruga... ve más pokeneas."
     },
     {
@@ -26,7 +26,7 @@ pokeneas = [
         "nombre": "Neatle",
         "altura": "0.5m",
         "habilidad": "Hierba de montebello",
-        "imagen": "c:\Users\knath\Downloads\ChatGPT Image 4 may 2025, 19_40_30.png",
+        "imagen": "https://private-user-images.githubusercontent.com/68928423/440229156-a8ab3cd8-2c7c-4628-8b9a-b60ec0d7e7a3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY0MDcwODcsIm5iZiI6MTc0NjQwNjc4NywicGF0aCI6Ii82ODkyODQyMy80NDAyMjkxNTYtYThhYjNjZDgtMmM3Yy00NjI4LThiOWEtYjYwZWMwZDdlN2EzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTA1VDAwNTk0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3NThkODY2MDJjZTgwYjRhY2MxZjYxYTE0NmQ3NGY3ODAxNjFkNjFkMDQxNjkyYjM3MzRiM2RjNDQzMWRlNzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8mT-u_s8kthlKqPQwU6ul15g52BaP_6qeVasaPgG6ps",
         "frase": "No hay batalla que un buen guaro no aliviane."
     }
 ]
