@@ -66,7 +66,7 @@ pokeneas = [
         "nombre": "Snorlaxito",
         "altura": "2.1m",
         "habilidad": "Sueño empapado de bandeja paisa",
-        "imagen": "https://example.com/snorlaxito.png",
+        "imagen": "https://private-user-images.githubusercontent.com/68928423/440235007-48849570-2b73-459a-b1b7-f5a217a663c2.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY0MTA5NzYsIm5iZiI6MTc0NjQxMDY3NiwicGF0aCI6Ii82ODkyODQyMy80NDAyMzUwMDctNDg4NDk1NzAtMmI3My00NTlhLWIxYjctZjVhMjE3YTY2M2MyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTA1VDAyMDQzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMzNzMwMjk5MGM1MTE4MjQ0NmY0MWJkZjMwZWI2M2M1NDM5ODQ1MTE1NjE1NWJjOGUzMDk2NmI2N2ZhMzM2OWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.MpqDHSxIM_NXATHruMSUPIJrUpw42jVi7Osexv23ZSs",
         "frase": "Dormir después del almuerzo es sagrado, mi llave."
     },
      {
