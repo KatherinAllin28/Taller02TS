@@ -42,7 +42,7 @@ pokeneas = [
         "nombre": "Machopaisa",
         "altura": "1.2m",
         "habilidad": "Puño de arepa",
-        "imagen": "https://example.com/machopaisa.png",
+        "imagen": "https://private-user-images.githubusercontent.com/68928423/440234763-67e38d53-3e0d-4d53-8507-7ae8714f7ff0.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY0MTA3ODcsIm5iZiI6MTc0NjQxMDQ4NywicGF0aCI6Ii82ODkyODQyMy80NDAyMzQ3NjMtNjdlMzhkNTMtM2UwZC00ZDUzLTg1MDctN2FlODcxNGY3ZmYwLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTA1VDAyMDEyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIxZTgxZTNjZDA5MTAzOGNjMzcxY2E2NzQyMjgxMDMxY2NjMmYxY2VkYzY5MDg2MzQ5NDM4ZDExN2RjOTYxZmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.KNx3eWwGmUx3IMmS1gBweqJJ96igP2pzPTEf55sLtIY",
         "frase": "El que no lucha por lo suyo, no merece un sancocho."
     },
      {
