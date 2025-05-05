@@ -5,7 +5,8 @@
 - Katherin Allin
 
 ### Reglas para correr la aplicación:
-`http://localhost:5000/pokenea/json` → para el JSON.
+`http://localhost:5000/pokenea/json` → para el JSON
+
 `http://localhost:5000/pokenea/frase` → para la imagen y la frase.
 
 ### Te presentamos a nuestros Pokeneas
