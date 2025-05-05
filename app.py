@@ -24,10 +24,58 @@ pokeneas = [
     {
         "id": 3,
         "nombre": "Neatle",
-        "altura": "0.5m",
+        "altura": "1.5m",
         "habilidad": "Hierba de montebello",
         "imagen": "https://private-user-images.githubusercontent.com/68928423/440229156-a8ab3cd8-2c7c-4628-8b9a-b60ec0d7e7a3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY0MDcwODcsIm5iZiI6MTc0NjQwNjc4NywicGF0aCI6Ii82ODkyODQyMy80NDAyMjkxNTYtYThhYjNjZDgtMmM3Yy00NjI4LThiOWEtYjYwZWMwZDdlN2EzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTA1VDAwNTk0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3NThkODY2MDJjZTgwYjRhY2MxZjYxYTE0NmQ3NGY3ODAxNjFkNjFkMDQxNjkyYjM3MzRiM2RjNDQzMWRlNzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8mT-u_s8kthlKqPQwU6ul15g52BaP_6qeVasaPgG6ps",
         "frase": "No hay batalla que un buen guaro no aliviane."
+    },
+     {
+        "id": 4,
+        "nombre": "Verdolaga",
+        "altura": "1.8m",
+        "habilidad": "Euforia alcólica",
+        "imagen": "https://private-user-images.githubusercontent.com/68928423/440229156-a8ab3cd8-2c7c-4628-8b9a-b60ec0d7e7a3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY0MDcwODcsIm5iZiI6MTc0NjQwNjc4NywicGF0aCI6Ii82ODkyODQyMy80NDAyMjkxNTYtYThhYjNjZDgtMmM3Yy00NjI4LThiOWEtYjYwZWMwZDdlN2EzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTA1VDAwNTk0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3NThkODY2MDJjZTgwYjRhY2MxZjYxYTE0NmQ3NGY3ODAxNjFkNjFkMDQxNjkyYjM3MzRiM2RjNDQzMWRlNzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8mT-u_s8kthlKqPQwU6ul15g52BaP_6qeVasaPgG6ps",
+        "frase": "Firme con los firmes y lo que no es verde no sirve."
+    },
+     {
+        "id": 5,
+        "nombre": "Machopaisa",
+        "altura": "1.2m",
+        "habilidad": "Puño de arepa",
+        "imagen": "https://example.com/machopaisa.png",
+        "frase": "El que no lucha por lo suyo, no merece un sancocho."
+    },
+     {
+        "id": 6,
+        "nombre": "Reggaetompoleon",
+        "altura": "1.9m",
+        "habilidad": "Flow explosivo",
+        "imagen": "https://example.com/reggaetompoleon.png",
+        "frase": "El ritmo mueve montañas, parcero."
+    },
+     {
+        "id": 7,
+        "nombre": "Gengarrote",
+        "altura": "1.4m",
+        "habilidad": "Risa malvada de fonda",
+        "imagen": "https://example.com/gengarrote.png",
+        "frase": "Si te asustás, es porque no sos de aquí."
+    },
+     {
+        "id": 8,
+        "nombre": "Snorlaxito",
+        "altura": "2.1m",
+        "habilidad": "Sueño empapado de bandeja paisa",
+        "imagen": "https://example.com/snorlaxito.png",
+        "frase": "Dormir después del almuerzo es sagrado, mi llave."
+    },
+     {
+        "id": 9,
+        "nombre": "Jiggleneaza",
+        "altura": "0.9m",
+        "habilidad": "Canto vallenato paisa",
+        "imagen": "https://example.com/jiggleneaza.png",
+        "frase": "Con una canción se enamora hasta el más serio."
     }
 ]
 
