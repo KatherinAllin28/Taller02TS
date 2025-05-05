@@ -18,4 +18,5 @@ Para correr el programa que se llama app.py ejecuta `python app.py`o `python3 ap
 ![ChatGPT Image 4 may 2025, 19_49_11](https://github.com/user-attachments/assets/a2137bd3-b642-4ef7-b6c3-d262db48d5c7)
 ![Imagen de WhatsApp 2025-05-04 a las 20 50 45_822b91e3](https://github.com/user-attachments/assets/4ec3f656-bfd6-4c82-a5ea-6c4d7f3d49f7)
 ![Imagen de WhatsApp 2025-05-04 a las 20 55 55_b989b777](https://github.com/user-attachments/assets/ba0b579f-d725-4e61-9439-ebd9810ff7dd)
+![Imagen de WhatsApp 2025-05-04 a las 20 57 38_61834868](https://github.com/user-attachments/assets/67e38d53-3e0d-4d53-8507-7ae8714f7ff0)
 
