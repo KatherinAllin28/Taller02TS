@@ -58,7 +58,7 @@ pokeneas = [
         "nombre": "Gengarrote",
         "altura": "1.4m",
         "habilidad": "Risa malvada de fonda",
-        "imagen": "https://example.com/gengarrote.png",
+        "imagen": "https://private-user-images.githubusercontent.com/68928423/440235269-73ca3bb9-a68e-4350-94c9-9591a494cef8.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY0MTExMjcsIm5iZiI6MTc0NjQxMDgyNywicGF0aCI6Ii82ODkyODQyMy80NDAyMzUyNjktNzNjYTNiYjktYTY4ZS00MzUwLTk0YzktOTU5MWE0OTRjZWY4LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTA1VDAyMDcwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU4OGI5NDVmOTc2MWMyZWUyZDJlZWNlZTQwNjgwOGRmMTY0NzM5MTQ5MmJhMGY2Y2RmMGFlZWFjZDljMTE1ZWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.a-EskROOQiiLNBtEiUSMGp2hMsKNUAJtjGcP6uLgwPE",
         "frase": "Si te asustás, es porque no sos de aquí."
     },
      {
