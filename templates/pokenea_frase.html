@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pokenea: {{ nombre }}</title>
+    <style>
+        body { font-family: Arial; text-align: center; padding: 50px; }
+        img { width: 300px; border-radius: 20px; }
+        .frase { font-size: 24px; margin-top: 20px; font-style: italic; }
+        .id { margin-top: 30px; font-size: 14px; color: gray; }
+    </style>
+</head>
+<body>
+    <h1>{{ nombre }}</h1>
+    <img src="{{ imagen }}" alt="{{ nombre }}">
+    <div class="frase">"{{ frase }}"</div>
+    <div class="id">Contenedor ID: {{ contenedor_id }}</div>
+</body>
+</html>
