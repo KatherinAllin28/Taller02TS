@@ -11,7 +11,7 @@
 </head>
 <body>
     <h1>{{ nombre }}</h1>
-    <img src="{{ imagen }}" alt="{{ nombre }}">
+    <img src="{{ url_for('static', filename='img/' + imagen) }}" alt="{{ nombre }}">
     <div class="frase">"{{ frase }}"</div>
     <div class="id">Contenedor ID: {{ contenedor_id }}</div>
 </body>
